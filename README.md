@@ -4,5 +4,5 @@
 
 ## To run
 ```bash
-python app.py
+uvicorn app:app --reload
 ```
